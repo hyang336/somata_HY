@@ -3,7 +3,7 @@
 Github: https://github.com/mh105/somata
 
 **State-space Oscillator Modeling And Time-series Analysis (SOMATA)** is a Python library for state-space neural signal
-processing algorithms developed in the [Purdon Lab](https://purdonlab.mgh.harvard.edu).
+processing algorithms developed in the [Purdon Lab](https://purdonlab.stanford.edu).
 Basic state-space models are introduced as class objects for flexible manipulations.
 Classical exact and approximate inference algorithms are implemented and interfaced as class methods.
 Advanced neural oscillator modeling techniques are brought together to work synergistically.
